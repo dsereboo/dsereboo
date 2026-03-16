@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-> *"Every line of code is a brick laid in the digital world — I'm here to build cathedrals."*
+> *"Every line of code is a brick laid in the digital world."*
 
 TypeScript developer with C# proficiency and 3 years of experience. 
 
-I write code with craftsmanship in mind — not because I'm there yet, but because Michelangelo is the benchmark.
+Coding with craftsmanship in mind.
 
-Currently building libraries and tooling, with a focus on DX and process improvement.
+Currently building libraries and tooling, with a focus on DX and business process improvement.
 
 
 <!-- Add links to current projects here -->
